@@ -1,9 +1,10 @@
-### Hi there 👋
-
+### Hi there, this is Donald 👋
 
 I am a fourth year undergraduate student at Davidson College in Davidson, NC, double majoring in Computer Science and Mathematics. I’m particularly interested in Reinforcement Learning (RL) and Artificial Intelligence (AI).
 
 I am currently working on a research project focused on adversarial search in chess AI agents.
+
+For more information, please access my personal website [here](https://donaldlin30.github.io/).
 
 
 <!--
