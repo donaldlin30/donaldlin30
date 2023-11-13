@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I am a fourth year undergraduate student at Davidson College in Davidson, NC, double majoring in Computer Science and Mathematics. I’m particularly interested in Reinforcement Learning (RL) and Artificial Intelligence (AI).
+
+I am currently working on a research project focused on adversarial search in chess AI agents.
+
+
 <!--
 **donaldlin30/donaldlin30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
