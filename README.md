@@ -1,6 +1,6 @@
 ### Hi there, this is Donald 👋
 
-I am an undergraduate student at Davidson College, double majoring in Computer Science and Mathematics. I'll be starting my Ph.D. in computer science in Fall 2024.
+I am an undergraduate student at Davidson College, double majoring in computer science and mathematics. I'll be starting my Ph.D. in computer science in Fall 2024.
 
 For more information, please access my personal website [here](https://donaldlin30.github.io/).
 
