@@ -1,6 +1,6 @@
 ### Hi there, this is Donald 👋
 
-I am a seinor undergraduate student at Davidson College, double majoring in Computer Science and Mathematics. I am currently working on a research project focused on adversarial search in chess AI agents.
+I am an undergraduate student at Davidson College, double majoring in Computer Science and Mathematics. I'll be starting my Ph.D. in computer science in Fall 2024.
 
 For more information, please access my personal website [here](https://donaldlin30.github.io/).
 
