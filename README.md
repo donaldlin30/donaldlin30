@@ -1,6 +1,6 @@
 ### Hi there, this is Donald 👋
 
-I am an undergraduate student at Davidson College, double majoring in computer science and mathematics. I'll be starting my Ph.D. in computer science in Fall 2024, at the University of Michigan.
+I'll be starting my Ph.D. in computer science in Fall 2024, at the University of Michigan. My interests span AI for healthcare. Currently I am finishing up my undergraduate study at Davidson College.
 
 For more information, please access my personal website [here](https://donaldlin30.github.io/).
 
