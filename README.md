@@ -1,6 +1,6 @@
 ### Hi there, this is Donald 👋
 
-I'll be starting my Ph.D. in computer science in Fall 2024, at the University of Michigan. My interests span AI for healthcare. Currently I am finishing up my undergraduate study at Davidson College.
+I am a Ph.D. student in computer science at the [University of Michigan](https://cse.engin.umich.edu/), focusing on AI for healthcare. I obtained my undergraduate degree at Davidson College.
 
 For more information, please access my personal website [here](https://donaldlin30.github.io/).
 
