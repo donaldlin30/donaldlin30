@@ -1,8 +1,8 @@
 ### Hi there, this is Donald 👋
 
-I am a Ph.D. student in computer science at the [University of Michigan](https://cse.engin.umich.edu/), focusing on AI for healthcare. I obtained my undergraduate degree at Davidson College.
+I am a CSE Ph.D. student at the [University of Michigan](https://cse.engin.umich.edu/), focusing on AI for healthcare. I obtained my undergraduate degree at Davidson College.
 
-For more information, please access my personal website [here](https://donaldlin30.github.io/).
+For more information, please access my personal website [here](https://donaldxinlin.github.io/).
 
 <!--
 **donaldlin30/donaldlin30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
