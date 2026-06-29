@@ -1,6 +1,6 @@
 ### Hi there, this is Donald 👋
 
-I am a CSE Ph.D. student at the [University of Michigan](https://cse.engin.umich.edu/), focusing on AI for healthcare. I obtained my undergraduate degree at Davidson College.
+I am a researcher at the [University of Michigan](https://cse.engin.umich.edu/), focusing on AI for healthcare. I obtained my undergraduate degree at Davidson College.
 
 For more information, please access my personal website [here](https://donaldlin30.github.io/).
 
